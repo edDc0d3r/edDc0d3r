@@ -3,7 +3,8 @@
     Demo bubble sort in action
  
  .DESCRIPTION
-    Running this PS script will 
+    Running this PS script will demonstrate a bubble sort by generating a random array of 10 numbers between 1 and 100 
+      and sorting them using the bubble sort algorithm
 
 .NOTES
     Name: Get-Something
@@ -13,7 +14,7 @@
  
  
 .EXAMPLE
-    ./Bubble_Sort.ps1
+    ./BubbleSort.ps1
  
 #>
 
