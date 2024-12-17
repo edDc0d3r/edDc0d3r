@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edDc0d3r
-- 👀 I’m interested in PowerShell and Ansible for Cloud Automation
-- 🌱 I’m currently learning PowerShell and studying classic algorithms
+- 👀 Interested in PowerShell, Python, and Ansible for Cloud Automation
+- studying DSA for the unbridled fun of it
 
 <!---
 edDc0d3r/edDc0d3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
